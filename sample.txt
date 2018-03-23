@@ -1,1 +1,2 @@
 This is the sample text file.
+add: Register new file to index
